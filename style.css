@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    
+}
+.cont{
+    border: 1px solid none;
+    width: 345px;
+    padding:  10px 10px 10px 10px;
+    border-radius: 20px;
+    background-color: rgb(160, 180, 180);
+    box-shadow: 10px 10px 10px rgb(117, 108, 108);
+    margin: 100px auto;
+}
+
+
+.ans{
+    height: 40px;
+    width: 300px;
+    text-align: end;
+    border-radius: 15px;
+   
+}
+#clear{
+    height: 40px;
+    width: 100px;
+   border-radius: 20px;
+}
+input{
+    width: 65px;
+    height: 60px;
+    border-radius: 20px;
+    border-style: none;
+    outline: 1px solid rgb(150, 134, 134);
+    box-shadow: 5px 5px 5px rgb(56, 47, 47);
+    margin: 10px 8px 2px 9px;
+    padding: 10px ;
+    font-size: 18px;
+}
+
